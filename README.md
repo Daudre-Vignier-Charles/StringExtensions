@@ -5,7 +5,7 @@ Minimum Visual Studio version = 10.0.40219.1
 - .NET Core
 - ASP.NET Core
 - Xamarin
-#### Partialy portable
+##### Partialy portable
 - .NET Framework >= 4.0
 - Mono >=4.0
 - .NET Standard >= 1.3
