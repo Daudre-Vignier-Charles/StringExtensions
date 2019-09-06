@@ -1,5 +1,9 @@
 # StringExtensions
 
+### Requirements
+
+Minimum Visual Studio version = 10.0.40219.1
+
 ### Assembly
 
 StringExtensions
