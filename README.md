@@ -1,13 +1,17 @@
 # StringExtensions
-
-### Requirements
-
 Minimum Visual Studio version = 10.0.40219.1
-
+### Portability
+##### Fully portable
+- .NET Core
+- ASP.NET Core
+- Xamarin
+#### Partialy portable
+- .NET Framework >= 4.0
+- Mono >=4.0
+- .NET Standard >= 1.3
+- UWP 10.0 & 10.1
 ### Assembly
-
 StringExtensions
-
 ### Members
 
 - #### LimitLength(int maxLength)
